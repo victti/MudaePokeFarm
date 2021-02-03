@@ -3,6 +3,11 @@
 # MudaePokeFarm
 This is a simple bot that automatically rolls Mudae pokemons.
 
+## Requirements
+1. [NET Core 3.1](https://dotnet.microsoft.com/download)
+1. [Disqord](https://github.com/phosphene47/Disqord/tree/45052d8a48fcfd3d168ce3bae88d72013d30b839)
+   1. Only required if you want to build the project yourself.
+
 ## Setup, Config and Initialization
 1. Download and extract the [latest release](https://github.com/victti/MudaePokeFarm/releases).
    1. Alternatively, you may build this project yourself using the .NET Core SDK.
