@@ -4,7 +4,7 @@
 This is a simple bot that automatically rolls Mudae pokemons.
 
 ## Setup, Config and Initialization
-1. Download and extract the latest release.
+1. Download and extract the [latest release](https://github.com/victti/MudaePokeFarm/releases).
    1. Alternatively, you may build this project yourself using the .NET Core SDK.
 1. Copy your user token and put on `Config\token.txt`.
    1. DO NOT EVER SHARE THIS TOKEN WITH ANYONE. TREAT THIS TOKEN LIKE YOU TREAT YOUR PASSWORD.
